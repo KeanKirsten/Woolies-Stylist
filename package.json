@@ -1,0 +1,9 @@
+{
+  "name": "woolies-stylist",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Internal Woolworths SA stock and imagery tool with Gemini vibe matching. Static page plus two Vercel serverless functions.",
+  "engines": {
+    "node": "22.x"
+  }
+}
